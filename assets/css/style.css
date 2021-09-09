@@ -1,6 +1,22 @@
 body{
     font-family: 'Noto Sans TC', sans-serif;
+    background-color: black;
 }
+
 .logo{
-    width: 10%;
+    width: 50%;
+}
+
+.container-fluid{
+width: 100%;
+padding-left: 0;
+padding-right: 0;
+}
+
+.p{
+ font-weight: 300;
+}
+
+.border-top{
+    color: lightseagreen;
 }
